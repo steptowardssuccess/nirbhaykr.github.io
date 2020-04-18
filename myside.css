@@ -1,0 +1,26 @@
+ .slide-excerpt {
+     width: 100%;
+ }
+ 
+ .slide-excerpt {
+     bottom: 0;
+ }
+ 
+ .slide-excerpt {
+     left: 0;
+ }
+ 
+ .flexslider {
+     max-width: 739px;
+     max-height: 350px;
+ }
+ 
+ .slide-image {
+     max-height: 350px;
+ }
+ 
+ @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+     .slide-excerpt {
+         display: none !important;
+     }
+ }
